@@ -3,6 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redaabou" alt="redaabou" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [troopl.com/aboulouafareda](troopl.com/aboulouafareda)
+
+- 📫 How to reach me **aboulouafareda@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/reda-aboulouafa-993a11220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/reda-aboulouafa-993a11220" height="30" width="40" /></a>
