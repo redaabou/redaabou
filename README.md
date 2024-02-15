@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redaabou" alt="redaabou" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/aboulouafareda)
+- 👨‍💻 All of my projects are available at https://troopl.com/aboulouafareda
 
 - 📫 How to reach me **aboulouafareda@gmail.com**
 
